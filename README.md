@@ -1,6 +1,7 @@
 # Eevee Rig for Blender 4.2
 
 It is recommended to use the bone manager addon (Link:https://fin.gumroad.com/l/STdb).
+Model by Game Freak
 
 | Eevee model | Rig UI | Dynamic Panel Builder |
 |-------------|--------|-----------------------|
